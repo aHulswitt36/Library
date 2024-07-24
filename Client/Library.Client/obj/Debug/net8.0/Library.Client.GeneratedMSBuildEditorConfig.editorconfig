@@ -9,47 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Library.Client
 build_property.RootNamespace = Library.Client
-build_property.ProjectDir = /home/aarron-hulswitt/Sandbox/Library/Client/Library.Client/
+build_property.ProjectDir = /home/ahulswitt/projects/Library/Client/Library.Client/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/aarron-hulswitt/Sandbox/Library/Client/Library.Client
+build_property.MSBuildProjectDirectory = /home/ahulswitt/projects/Library/Client/Library.Client
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/aarron-hulswitt/Sandbox/Library/Client/Library.Client/Components/App.razor]
+[/home/ahulswitt/projects/Library/Client/Library.Client/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/aarron-hulswitt/Sandbox/Library/Client/Library.Client/Components/Pages/Counter.razor]
+[/home/ahulswitt/projects/Library/Client/Library.Client/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/aarron-hulswitt/Sandbox/Library/Client/Library.Client/Components/Pages/Error.razor]
+[/home/ahulswitt/projects/Library/Client/Library.Client/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/aarron-hulswitt/Sandbox/Library/Client/Library.Client/Components/Pages/Home.razor]
+[/home/ahulswitt/projects/Library/Client/Library.Client/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/aarron-hulswitt/Sandbox/Library/Client/Library.Client/Components/Pages/Weather.razor]
+[/home/ahulswitt/projects/Library/Client/Library.Client/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/aarron-hulswitt/Sandbox/Library/Client/Library.Client/Components/Routes.razor]
+[/home/ahulswitt/projects/Library/Client/Library.Client/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/aarron-hulswitt/Sandbox/Library/Client/Library.Client/Components/_Imports.razor]
+[/home/ahulswitt/projects/Library/Client/Library.Client/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/aarron-hulswitt/Sandbox/Library/Client/Library.Client/Components/Layout/MainLayout.razor]
+[/home/ahulswitt/projects/Library/Client/Library.Client/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-4sp6yyfbc1
 
-[/home/aarron-hulswitt/Sandbox/Library/Client/Library.Client/Components/Layout/NavMenu.razor]
+[/home/ahulswitt/projects/Library/Client/Library.Client/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-9i1npo9hnr
